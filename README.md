@@ -20,7 +20,8 @@ I learned Python fundamentals including variables, data types, loops, conditiona
     - Arithmetic
     - Logical
     - Comparison
-    -  Assignment Membership
+    -  Assignment
+    -  Membership
     - Identity
 
 04. Control Flow:
